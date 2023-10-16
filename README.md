@@ -37,8 +37,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Have questions or suggestions? Feel free to reach out:
 
 - Email: mhassankhanw3@gmail.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/hassan-khan-0b0508233/)
-- GitHub: [Your GitHub](https://github.com/mhassankhanw3)
+- LinkedIn: [Hassan Khan](https://www.linkedin.com/in/hassan-khan-0b0508233/)
+- GitHub: [mhassankhanw3](https://github.com/mhassankhanw3)
 
 Thank you for using DailyDocket! We hope it helps you stay organized and productive.
 
